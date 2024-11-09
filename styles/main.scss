@@ -1,0 +1,9 @@
+@import 'components/header';
+@import 'components/hero';
+@import 'components/footer';
+@import 'components/button';
+@import 'components/card';
+
+$primary: #ff6347;
+$btn-padding-y: 1.5rem;
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
